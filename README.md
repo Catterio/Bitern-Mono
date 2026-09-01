@@ -1,5 +1,3 @@
-# Bitern-Mono
-
 ![IMG1](BiternMono.png)
 ![IMG2](BiternMono2.png)
 
